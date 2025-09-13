@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JABER\\Desktop\\system desing\\oop\\Extra Information\\Static\\application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B73F405-F8E9-4C17-876E-875C85D08B2B}|application\\application.csproj|c:\\users\\jaber\\desktop\\system desing\\oop\\extra information\\static\\application\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B73F405-F8E9-4C17-876E-875C85D08B2B}|application\\application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B73F405-F8E9-4C17-876E-875C85D08B2B}|application\\application.csproj|c:\\users\\jaber\\desktop\\system desing\\oop\\extra information\\static\\application\\application\\classes\\displayclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B73F405-F8E9-4C17-876E-875C85D08B2B}|application\\application.csproj|solutionrelative:application\\classes\\displayclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B73F405-F8E9-4C17-876E-875C85D08B2B}|application\\application.csproj|c:\\users\\jaber\\desktop\\system desing\\oop\\extra information\\static\\application\\application\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B73F405-F8E9-4C17-876E-875C85D08B2B}|application\\application.csproj|solutionrelative:application\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayClass.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system desing\\oop\\Extra Information\\Static\\application\\application\\Classes\\DisplayClass.cs",
+              "RelativeDocumentMoniker": "application\\Classes\\DisplayClass.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system desing\\oop\\Extra Information\\Static\\application\\application\\Classes\\DisplayClass.cs",
+              "RelativeToolTip": "application\\Classes\\DisplayClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:28:47.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system desing\\oop\\Extra Information\\Static\\application\\application\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "application\\Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system desing\\oop\\Extra Information\\Static\\application\\application\\Classes\\Car.cs",
+              "RelativeToolTip": "application\\Classes\\Car.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:14:07.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system desing\\oop\\Extra Information\\Static\\application\\application\\Program.cs",
+              "RelativeDocumentMoniker": "application\\Program.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system desing\\oop\\Extra Information\\Static\\application\\application\\Program.cs",
+              "RelativeToolTip": "application\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:12:57.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
