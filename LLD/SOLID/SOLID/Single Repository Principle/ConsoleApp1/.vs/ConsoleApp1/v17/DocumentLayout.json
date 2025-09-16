@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JABER\\Desktop\\system design\\SOLID\\SOLID\\Single Repository Principle\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\solid\\solid\\single repository principle\\consoleapp1\\consoleapp1\\single repository principle\\savetodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\single repository principle\\savetodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\solid\\solid\\single repository principle\\consoleapp1\\consoleapp1\\single repository principle\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\single repository principle\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\solid\\solid\\single repository principle\\consoleapp1\\consoleapp1\\single repository principle\\invokeprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\single repository principle\\invokeprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\solid\\solid\\single repository principle\\consoleapp1\\consoleapp1\\single repository principle\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\single repository principle\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\JABER\\Desktop\\system design\\SOLID\\SOLID\\Single Repository Principle\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvokePrinter.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\SOLID\\SOLID\\Single Repository Principle\\ConsoleApp1\\ConsoleApp1\\Single Repository Principle\\InvokePrinter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Single Repository Principle\\InvokePrinter.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\SOLID\\SOLID\\Single Repository Principle\\ConsoleApp1\\ConsoleApp1\\Single Repository Principle\\InvokePrinter.cs",
+              "RelativeToolTip": "ConsoleApp1\\Single Repository Principle\\InvokePrinter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:33:49.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveToDb.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\SOLID\\SOLID\\Single Repository Principle\\ConsoleApp1\\ConsoleApp1\\Single Repository Principle\\SaveToDb.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Single Repository Principle\\SaveToDb.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\SOLID\\SOLID\\Single Repository Principle\\ConsoleApp1\\ConsoleApp1\\Single Repository Principle\\SaveToDb.cs",
+              "RelativeToolTip": "ConsoleApp1\\Single Repository Principle\\SaveToDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:28:10.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\SOLID\\SOLID\\Single Repository Principle\\ConsoleApp1\\ConsoleApp1\\Single Repository Principle\\Cart.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Single Repository Principle\\Cart.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\SOLID\\SOLID\\Single Repository Principle\\ConsoleApp1\\ConsoleApp1\\Single Repository Principle\\Cart.cs",
+              "RelativeToolTip": "ConsoleApp1\\Single Repository Principle\\Cart.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:27:55.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\SOLID\\SOLID\\Single Repository Principle\\ConsoleApp1\\ConsoleApp1\\Single Repository Principle\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Single Repository Principle\\Product.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\SOLID\\SOLID\\Single Repository Principle\\ConsoleApp1\\ConsoleApp1\\Single Repository Principle\\Product.cs",
+              "RelativeToolTip": "ConsoleApp1\\Single Repository Principle\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:27:40.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\SOLID\\SOLID\\Single Repository Principle\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\SOLID\\SOLID\\Single Repository Principle\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:51:19.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
