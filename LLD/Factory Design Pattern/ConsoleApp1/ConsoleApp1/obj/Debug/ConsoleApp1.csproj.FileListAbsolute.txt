@@ -1,0 +1,42 @@
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Seal\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Seal\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Seal\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Seal\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Seal\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Seal\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Seal\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Virtual\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Virtual\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Virtual\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Virtual\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Virtual\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Virtual\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\JABER\Desktop\system desing\oop\Extra Information\Virtual\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\JABER\Desktop\system design\LLD\SOLID\SOLID\Liskov Substitution Principle\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\JABER\Desktop\system design\LLD\SOLID\SOLID\Liskov Substitution Principle\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\JABER\Desktop\system design\LLD\SOLID\SOLID\Liskov Substitution Principle\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\JABER\Desktop\system design\LLD\SOLID\SOLID\Liskov Substitution Principle\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\system design\LLD\SOLID\SOLID\Liskov Substitution Principle\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\system design\LLD\SOLID\SOLID\Liskov Substitution Principle\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\JABER\Desktop\system design\LLD\SOLID\SOLID\Liskov Substitution Principle\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\JABER\Desktop\system design\LLD\Document Editor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\system design\LLD\Document Editor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\system design\LLD\Document Editor\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\JABER\Desktop\system design\LLD\Document Editor\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\JABER\Desktop\system design\LLD\Document Editor\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\JABER\Desktop\system design\LLD\Document Editor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\JABER\Desktop\system design\LLD\Document Editor\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\JABER\Desktop\system design\LLD\Strategy Design Pattern\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\JABER\Desktop\system design\LLD\Strategy Design Pattern\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\JABER\Desktop\system design\LLD\Strategy Design Pattern\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\JABER\Desktop\system design\LLD\Strategy Design Pattern\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\system design\LLD\Strategy Design Pattern\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\system design\LLD\Strategy Design Pattern\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\JABER\Desktop\system design\LLD\Strategy Design Pattern\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\JABER\Desktop\system design\LLD\Factory Design Pattern\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\JABER\Desktop\system design\LLD\Factory Design Pattern\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\JABER\Desktop\system design\LLD\Factory Design Pattern\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\JABER\Desktop\system design\LLD\Factory Design Pattern\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\system design\LLD\Factory Design Pattern\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\system design\LLD\Factory Design Pattern\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\JABER\Desktop\system design\LLD\Factory Design Pattern\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

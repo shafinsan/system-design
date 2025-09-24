@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Folder\Abstract\AbstractFactory.cs" />
+    <Compile Include="Folder\Abstract\Classes\Burger\BasicBurger.cs" />
+    <Compile Include="Folder\Abstract\Classes\Burger\BasicWheatBurger.cs" />
+    <Compile Include="Folder\Abstract\Classes\Burger\PremiumBurger.cs" />
+    <Compile Include="Folder\Abstract\Classes\Burger\PremiumWheatBurger.cs" />
+    <Compile Include="Folder\Abstract\Classes\Burger\StandardBurger.cs" />
+    <Compile Include="Folder\Abstract\Classes\Burger\StandardWheatBurger.cs" />
+    <Compile Include="Folder\Abstract\Classes\GarlicBread\BasicGarlicBread.cs" />
+    <Compile Include="Folder\Abstract\Classes\GarlicBread\BasicWheatGarlicBread.cs" />
+    <Compile Include="Folder\Abstract\Classes\GarlicBread\CheeseGarlicBread.cs" />
+    <Compile Include="Folder\Abstract\Classes\GarlicBread\CheeseWheatGarlicBread.cs" />
+    <Compile Include="Folder\Abstract\Factory\GarlicBread.cs" />
+    <Compile Include="Folder\Abstract\Factory\Interface\IAbstractInterface.cs" />
+    <Compile Include="Folder\Abstract\Factory\SinghBurger.cs" />
+    <Compile Include="Folder\Abstract\Interface\IBurger.cs" />
+    <Compile Include="Folder\Abstract\Interface\IGarlicBread.cs" />
+    <Compile Include="Folder\Interface\IFactory.cs" />
+    <Compile Include="Folder\Method\Classes\MthodComplexBurger.cs" />
+    <Compile Include="Folder\Method\Classes\MthodCompoundBarger.cs" />
+    <Compile Include="Folder\Method\Classes\MthodSimpleBurger.cs" />
+    <Compile Include="Folder\Method\FactoryMethod.cs" />
+    <Compile Include="Folder\Simple\Classes\SimpleComplexBurger.cs" />
+    <Compile Include="Folder\Simple\Classes\SimpleSimpleBurger.cs" />
+    <Compile Include="Folder\Simple\Classes\SimplexCompoundBarger.cs" />
+    <Compile Include="Folder\Simple\Interface\IBarger.cs" />
+    <Compile Include="Folder\Simple\SimpleFactory.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Folder\Method\Interface\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

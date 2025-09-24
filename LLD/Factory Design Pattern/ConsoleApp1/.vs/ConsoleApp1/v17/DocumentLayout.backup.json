@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Factory Design Pattern\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\factory design pattern\\consoleapp1\\consoleapp1\\folder\\abstract\\factory\\singhburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\folder\\abstract\\factory\\singhburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\factory design pattern\\consoleapp1\\consoleapp1\\folder\\abstract\\factory\\garlicbread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\folder\\abstract\\factory\\garlicbread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\factory design pattern\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\factory design pattern\\consoleapp1\\consoleapp1\\folder\\abstract\\classes\\burger\\basicburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\folder\\abstract\\classes\\burger\\basicburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasicBurger.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Factory Design Pattern\\ConsoleApp1\\ConsoleApp1\\Folder\\Abstract\\Classes\\Burger\\BasicBurger.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Folder\\Abstract\\Classes\\Burger\\BasicBurger.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Factory Design Pattern\\ConsoleApp1\\ConsoleApp1\\Folder\\Abstract\\Classes\\Burger\\BasicBurger.cs",
+              "RelativeToolTip": "ConsoleApp1\\Folder\\Abstract\\Classes\\Burger\\BasicBurger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:06:51.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Factory Design Pattern\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Factory Design Pattern\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:01:17.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinghBurger.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Factory Design Pattern\\ConsoleApp1\\ConsoleApp1\\Folder\\Abstract\\Factory\\SinghBurger.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Folder\\Abstract\\Factory\\SinghBurger.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Factory Design Pattern\\ConsoleApp1\\ConsoleApp1\\Folder\\Abstract\\Factory\\SinghBurger.cs",
+              "RelativeToolTip": "ConsoleApp1\\Folder\\Abstract\\Factory\\SinghBurger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:56:24.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GarlicBread.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Factory Design Pattern\\ConsoleApp1\\ConsoleApp1\\Folder\\Abstract\\Factory\\GarlicBread.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Folder\\Abstract\\Factory\\GarlicBread.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Factory Design Pattern\\ConsoleApp1\\ConsoleApp1\\Folder\\Abstract\\Factory\\GarlicBread.cs",
+              "RelativeToolTip": "ConsoleApp1\\Folder\\Abstract\\Factory\\GarlicBread.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:56:23.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
