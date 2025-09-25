@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\project2\\consoleapp1\\consoleapp1\\folder\\managers\\order\\currentorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\folder\\managers\\order\\currentorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\project2\\consoleapp1\\consoleapp1\\folder\\managers\\order\\sheduleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\folder\\managers\\order\\sheduleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\project2\\consoleapp1\\consoleapp1\\folder\\managers\\payment\\pay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\folder\\managers\\payment\\pay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\project2\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\project2\\consoleapp1\\consoleapp1\\folder\\interface\\iorderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\folder\\interface\\iorderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\project2\\consoleapp1\\consoleapp1\\folder\\interface\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\folder\\interface\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\project2\\consoleapp1\\consoleapp1\\folder\\interface\\inagad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\folder\\interface\\inagad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\project2\\consoleapp1\\consoleapp1\\folder\\managers\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\folder\\managers\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jaber\\desktop\\system design\\lld\\project2\\consoleapp1\\consoleapp1\\folder\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFA10D-2629-4C3D-8012-B70103F6D9D4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\folder\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pay.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Managers\\payment\\Pay.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Folder\\Managers\\payment\\Pay.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Managers\\payment\\Pay.cs",
+              "RelativeToolTip": "ConsoleApp1\\Folder\\Managers\\payment\\Pay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:22:13.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INagad.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Interface\\INagad.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Folder\\Interface\\INagad.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Interface\\INagad.cs",
+              "RelativeToolTip": "ConsoleApp1\\Folder\\Interface\\INagad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:16:02.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Model\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Folder\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Model\\User.cs",
+              "RelativeToolTip": "ConsoleApp1\\Folder\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:07:25.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:06:34.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Iorderfactory.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Interface\\Iorderfactory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Folder\\Interface\\Iorderfactory.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Interface\\Iorderfactory.cs",
+              "RelativeToolTip": "ConsoleApp1\\Folder\\Interface\\Iorderfactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:56:09.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Iorder.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Interface\\Iorder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Folder\\Interface\\Iorder.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Interface\\Iorder.cs",
+              "RelativeToolTip": "ConsoleApp1\\Folder\\Interface\\Iorder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:56:07.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SheduleOrder.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Managers\\Order\\SheduleOrder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Folder\\Managers\\Order\\SheduleOrder.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Managers\\Order\\SheduleOrder.cs",
+              "RelativeToolTip": "ConsoleApp1\\Folder\\Managers\\Order\\SheduleOrder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:42:49.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentOrder.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Managers\\Order\\CurrentOrder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Folder\\Managers\\Order\\CurrentOrder.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Managers\\Order\\CurrentOrder.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Folder\\Managers\\Order\\CurrentOrder.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:40:09.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Managers\\Order\\Order.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Folder\\Managers\\Order\\Order.cs",
+              "ToolTip": "C:\\Users\\JABER\\Desktop\\system design\\LLD\\Project2\\ConsoleApp1\\ConsoleApp1\\Folder\\Managers\\Order\\Order.cs",
+              "RelativeToolTip": "ConsoleApp1\\Folder\\Managers\\Order\\Order.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:36:01.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
